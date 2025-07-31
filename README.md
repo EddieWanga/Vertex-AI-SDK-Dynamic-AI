@@ -1,0 +1,1 @@
+App leverages Firebase's brand-new Vertex AI SDK for Flutter, allowing you to make secure client-side calls to Gemini without the need for an API key. All authentication is seamlessly handled via Firebase Authentication, providing a more secure and scalable way to integrate generative AI chat into your apps
